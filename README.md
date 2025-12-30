@@ -27,7 +27,6 @@ A computational approach for predicting synthetic routes of 2-amino-5-nitrothiaz
 - [Requirements](#-requirements)
 - [Citation](#-citation)
 - [Authors](#-authors)
-- [License](#-license)
 - [Acknowledgments](#-acknowledgments)
 
 ---
@@ -329,7 +328,7 @@ model.fit(fingerprint_matrix)
 ### Hyperparameter Sensitivity
 
 <p align="center">
-  <img src="output/figures/figure8_hyperparameter_sensitivity. png" alt="Hyperparameter Sensitivity" width="700"/>
+  <img src="output/figures/figure8_hyperparameter_sensitivity (1). png" alt="Hyperparameter Sensitivity" width="700"/>
 </p>
 
 **Optimal Configuration:**
@@ -552,7 +551,7 @@ If you use this code in your research, please cite:
 
 ### Advisor
 
-**[Gerald D. Ompad]**
+**[Gerard D. Ompad]**
 - 🎓 [College of Computer Studies], [University of Cebu - Main Campus]
 - 📍 [Cebu City], Philippines
 - 📧 [gerard.ompad@gmail.com]
@@ -560,14 +559,10 @@ If you use this code in your research, please cite:
 
 ---
 
-## 📄 License
-
-
-
 ## 🙏 Acknowledgments
 
-- **[Gerald D. Ompad]** - Project supervision and guidance
-- **[University of Cebu]** - Institutional support
+- **Gerard D. Ompad** - Project supervision and guidance
+- **University of Cebu** - Institutional support
 - **RDKit Development Team** - Open-source cheminformatics toolkit
 - **Google Colaboratory** - Free computational resources
 - **Open Reaction Database Consortium** - Reaction data resources
@@ -583,7 +578,6 @@ This software is provided for **research and educational purposes only**.
 - 🧪 Chemical synthesis should only be performed by trained personnel in appropriate facilities
 - 📋 Always consult Safety Data Sheets (SDS) and follow proper laboratory safety protocols
 
----
 
 ---
 
