@@ -86,7 +86,7 @@ Retrosynthesis prediction is a fundamental challenge in computational chemistry 
 
 Click the badge below to open directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/drive/1ctLDMLE7ua1PuLRaEtRl_A4mXHl7DZpG?usp=sharing#scrollTo=2jJkQCDJonFm)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ctLDMLE7ua1PuLRaEtRl_A4mXHl7DZpG?usp=sharing)
 
 ---
 
