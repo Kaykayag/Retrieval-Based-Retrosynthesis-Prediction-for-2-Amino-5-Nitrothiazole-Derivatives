@@ -3,7 +3,6 @@
 # Retrieval-Based Retrosynthesis for 2-Amino-5-Nitrothiazole Derivatives
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![License:  MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![RDKit](https://img.shields.io/badge/RDKit-2023.09.1-green.svg)](https://www.rdkit.org/)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ctLDMLE7ua1PuLRaEtRl_A4mXHl7DZpG?usp=sharing)
 
@@ -543,55 +542,31 @@ If you use this code in your research, please cite:
 - 🎓 [College of Computer Studies], [University of Cebu - Main Campus]
 - 📍 [Cebu City], Philippines
 - 📧 [uzumakinrtq@gmail.com]
-- 🔗 [GitHub](https://github.com/[aarn12343235])
+- 🔗 [GitHub](https://github.com/aarn12343235)
 
 **[Erica Gin Echavez]**
 - 🎓 [College of Computer Studies], [University of Cebu - Main Campus]
 - 📍 [Cebu City], Philippines
-- 📧 [....@gmail.com]
-- 🔗 [GitHub](https://github.com/[....])
+- 📧 [erica.echavez13@gmail.com]
+- 🔗 [GitHub](https://github.com/Kaykayag)
 
 ### Advisor
 
-**[Advisor's Name]**
-- 🎓 [Department], [University]
-- 📧 [advisor-email]@[university].edu.ph
+**[Gerald D. Ompad]**
+- 🎓 [College of Computer Studies], [University of Cebu - Main Campus]
+- 📍 [Cebu City], Philippines
+- 📧 [gerard.ompad@gmail.com]
+- 🔗 [GitHub](https://github.com/gerard-ompad)
 
 ---
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
-```
-MIT License
-
-Copyright (c) 2024 [Your Full Name]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
-
----
 
 ## 🙏 Acknowledgments
 
-- **[Advisor's Name]** - Project supervision and guidance
+- **[Gerald D. Ompad]** - Project supervision and guidance
 - **[University of Cebu]** - Institutional support
 - **RDKit Development Team** - Open-source cheminformatics toolkit
 - **Google Colaboratory** - Free computational resources
