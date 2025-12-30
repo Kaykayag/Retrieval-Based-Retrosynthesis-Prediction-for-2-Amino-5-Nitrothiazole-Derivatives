@@ -86,7 +86,7 @@ Retrosynthesis prediction is a fundamental challenge in computational chemistry 
 
 Click the badge below to open directly in Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/drive/1ctLDMLE7ua1PuLRaEtRl_A4mXHl7DZpG?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/drive/1ctLDMLE7ua1PuLRaEtRl_A4mXHl7DZpG?usp=sharing#scrollTo=2jJkQCDJonFm)
 
 ---
 
@@ -293,7 +293,7 @@ model.fit(fingerprint_matrix)
 ### Performance by Reaction Type
 
 <p align="center">
-  <img src="output/figures/figure4_performance_by_type. png" alt="Performance by Type" width="700"/>
+  <img src="output/figures/figure4_performance_by_type.png" alt="Performance by Type" width="700"/>
 </p>
 
 | Reaction Type | N | Top-5 Partial (%) | Top-5 Same Type (%) |
@@ -328,7 +328,7 @@ model.fit(fingerprint_matrix)
 ### Hyperparameter Sensitivity
 
 <p align="center">
-  <img src="output/figures/figure8_hyperparameter_sensitivity (1). png" alt="Hyperparameter Sensitivity" width="700"/>
+  <img src="output/figures/figure8_hyperparameter_sensitivity (1).png" alt="Hyperparameter Sensitivity" width="700"/>
 </p>
 
 **Optimal Configuration:**
@@ -351,7 +351,7 @@ model.fit(fingerprint_matrix)
 ### Error Analysis
 
 <p align="center">
-  <img src="output/figures/figure9_error_analysis. png" alt="Error Analysis" width="800"/>
+  <img src="output/figures/figure9_error_analysis.png" alt="Error Analysis" width="800"/>
 </p>
 
 ### Molecular Properties
@@ -538,23 +538,23 @@ If you use this code in your research, please cite:
 ### Primary Author
 
 **[Aaron A. Bigno]**
-- 🎓 [College of Computer Studies], [University of Cebu - Main Campus]
-- 📍 [Cebu City], Philippines
-- 📧 [uzumakinrtq@gmail.com]
+- 🎓 College of Computer Studies, University of Cebu - Main Campus
+- 📍 Cebu City, Philippines
+- 📧 uzumakinrtq@gmail.com
 - 🔗 [GitHub](https://github.com/aarn12343235)
 
 **[Erica Gin Echavez]**
-- 🎓 [College of Computer Studies], [University of Cebu - Main Campus]
-- 📍 [Cebu City], Philippines
-- 📧 [erica.echavez13@gmail.com]
+- 🎓 College of Computer Studies, University of Cebu - Main Campus
+- 📍 Cebu City, Philippines
+- 📧 erica.echavez13@gmail.com
 - 🔗 [GitHub](https://github.com/Kaykayag)
 
 ### Advisor
 
 **[Gerard D. Ompad]**
-- 🎓 [College of Computer Studies], [University of Cebu - Main Campus]
-- 📍 [Cebu City], Philippines
-- 📧 [gerard.ompad@gmail.com]
+- 🎓 College of Computer Studies, University of Cebu - Main Campus
+- 📍 Cebu City, Philippines
+- 📧 gerard.ompad@gmail.com
 - 🔗 [GitHub](https://github.com/gerard-ompad)
 
 ---
