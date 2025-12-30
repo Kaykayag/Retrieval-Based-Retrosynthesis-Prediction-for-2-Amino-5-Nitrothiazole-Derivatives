@@ -1,0 +1,80 @@
+reactants,products,type,name,reactants_canonical,products_canonical
+CC(=O)Cl. Nc1ccccc1,CC(=O)Nc1ccccc1,N-acylation,Acetanilide formation,CC(=O)Cl.Nc1ccccc1,CC(=O)Nc1ccccc1
+CC(=O)Cl.NCC,CC(=O)NCC,N-acylation,N-Ethylacetamide,CC(=O)Cl.CCN,CCNC(C)=O
+CC(=O)Cl.NC,CC(=O)NC,N-acylation,N-Methylacetamide,CC(=O)Cl.CN,CNC(C)=O
+CC(=O)Cl. NCCN,CC(=O)NCCN,N-acylation,N-Acetylethylenediamine,CC(=O)Cl.NCCN,CC(=O)NCCN
+CC(=O)Cl.NCCc1ccccc1,CC(=O)NCCc1ccccc1,N-acylation,N-Acetylphenethylamine,CC(=O)Cl.NCCc1ccccc1,CC(=O)NCCc1ccccc1
+CC(=O)Cl.NC(C)C,CC(=O)NC(C)C,N-acylation,N-Isopropylacetamide,CC(=O)Cl.CC(C)N,CC(=O)NC(C)C
+CC(=O)Cl.NCC(C)C,CC(=O)NCC(C)C,N-acylation,N-Isobutylacetamide,CC(=O)Cl.CC(C)CN,CC(=O)NCC(C)C
+CC(=O)Cl.NCCC,CC(=O)NCCC,N-acylation,N-Propylacetamide,CC(=O)Cl.CCCN,CCCNC(C)=O
+CC(=O)Cl.NCCCC,CC(=O)NCCCC,N-acylation,N-Butylacetamide,CC(=O)Cl.CCCCN,CCCCNC(C)=O
+CC(=O)Cl.NCc1ccccc1,CC(=O)NCc1ccccc1,N-acylation,N-Benzylacetamide,CC(=O)Cl.NCc1ccccc1,CC(=O)NCc1ccccc1
+O=C(Cl)c1ccccc1.Nc1ccccc1,O=C(Nc1ccccc1)c1ccccc1,N-acylation,Benzanilide,O=C(Cl)c1ccccc1.Nc1ccccc1,O=C(Nc1ccccc1)c1ccccc1
+O=C(Cl)c1ccccc1. NC,CNC(=O)c1ccccc1,N-acylation,N-Methylbenzamide,O=C(Cl)c1ccccc1.CN,CNC(=O)c1ccccc1
+O=C(Cl)c1ccccc1.NCC,CCNC(=O)c1ccccc1,N-acylation,N-Ethylbenzamide,O=C(Cl)c1ccccc1.CCN,CCNC(=O)c1ccccc1
+O=C(Cl)c1ccccc1.NCc1ccccc1,O=C(NCc1ccccc1)c1ccccc1,N-acylation,N-Benzylbenzamide,O=C(Cl)c1ccccc1.NCc1ccccc1,O=C(NCc1ccccc1)c1ccccc1
+O=C(Cl)c1ccccc1.NCCC,CCCNC(=O)c1ccccc1,N-acylation,N-Propylbenzamide,O=C(Cl)c1ccccc1.CCCN,CCCNC(=O)c1ccccc1
+CCC(=O)Cl.Nc1ccccc1,CCC(=O)Nc1ccccc1,N-acylation,Propionanilide,CCC(=O)Cl.Nc1ccccc1,CCC(=O)Nc1ccccc1
+CCC(=O)Cl.NC,CCC(=O)NC,N-acylation,N-Methylpropionamide,CCC(=O)Cl.CN,CCC(=O)NC
+CCC(=O)Cl.NCC,CCC(=O)NCC,N-acylation,N-Ethylpropionamide,CCC(=O)Cl.CCN,CCNC(=O)CC
+O=CC(=O)Cl.Nc1ccccc1,O=CNc1ccccc1,N-acylation,Formanilide,O=CC(=O)Cl.Nc1ccccc1,O=CNc1ccccc1
+O=CC(=O)Cl.NC,O=CNC,N-acylation,N-Methylformamide,O=CC(=O)Cl.CN,CNC=O
+CC(=O)OC(C)=O. Nc1ccccc1,CC(=O)Nc1ccccc1,N-acylation,Acetanilide (anhydride),CC(=O)OC(C)=O.Nc1ccccc1,CC(=O)Nc1ccccc1
+CC(=O)OC(C)=O.NC,CC(=O)NC,N-acylation,N-Methylacetamide (anhydride),CC(=O)OC(C)=O.CN,CNC(C)=O
+CC(=O)OC(C)=O.NCC,CC(=O)NCC,N-acylation,N-Ethylacetamide (anhydride),CC(=O)OC(C)=O.CCN,CCNC(C)=O
+CC(=O)OC(C)=O.NCc1ccccc1,CC(=O)NCc1ccccc1,N-acylation,N-Benzylacetamide (anhydride),CC(=O)OC(C)=O.NCc1ccccc1,CC(=O)NCc1ccccc1
+CC(=O)OC(C)=O.NCCN,CC(=O)NCCNC(C)=O,N-acylation,"N,N'-Diacetylethylenediamine",CC(=O)OC(C)=O.NCCN,CC(=O)NCCNC(C)=O
+CI.Nc1ccccc1,CNc1ccccc1,N-alkylation,N-Methylaniline,CI.Nc1ccccc1,CNc1ccccc1
+CBr.Nc1ccccc1,CNc1ccccc1,N-alkylation,N-Methylaniline (Br),CBr.Nc1ccccc1,CNc1ccccc1
+CI.NCC,CNCC,N-alkylation,N-Methylethylamine,CI.CCN,CCNC
+CI.NC,CNC,N-alkylation,Dimethylamine,CI.CN,CNC
+CI.NCc1ccccc1,CNCc1ccccc1,N-alkylation,N-Methylbenzylamine,CI.NCc1ccccc1,CNCc1ccccc1
+CCBr.Nc1ccccc1,CCNc1ccccc1,N-alkylation,N-Ethylaniline,CCBr.Nc1ccccc1,CCNc1ccccc1
+CCI.Nc1ccccc1,CCNc1ccccc1,N-alkylation,N-Ethylaniline (I),CCI.Nc1ccccc1,CCNc1ccccc1
+CCBr.NC,CCNC,N-alkylation,N-Methylethylamine,CCBr.CN,CCNC
+CCBr.NCC,CCNCC,N-alkylation,Diethylamine,CCBr.CCN,CCNCC
+CCBr. NCc1ccccc1,CCNCc1ccccc1,N-alkylation,N-Ethylbenzylamine,CCBr.NCc1ccccc1,CCNCc1ccccc1
+BrCc1ccccc1.Nc1ccccc1,c1ccc(CNc2ccccc2)cc1,N-alkylation,N-Benzylaniline,BrCc1ccccc1.Nc1ccccc1,c1ccc(CNc2ccccc2)cc1
+ClCc1ccccc1.Nc1ccccc1,c1ccc(CNc2ccccc2)cc1,N-alkylation,N-Benzylaniline (Cl),ClCc1ccccc1.Nc1ccccc1,c1ccc(CNc2ccccc2)cc1
+BrCc1ccccc1.NC,CNCc1ccccc1,N-alkylation,N-Methylbenzylamine,BrCc1ccccc1.CN,CNCc1ccccc1
+BrCc1ccccc1.NCC,CCNCc1ccccc1,N-alkylation,N-Ethylbenzylamine,BrCc1ccccc1.CCN,CCNCc1ccccc1
+C=CCBr.Nc1ccccc1,C=CCNc1ccccc1,N-alkylation,N-Allylaniline,C=CCBr.Nc1ccccc1,C=CCNc1ccccc1
+C=CCBr.NC,C=CCNC,N-alkylation,N-Methylallylamine,C=CCBr.CN,C=CCNC
+C=CCBr.NCC,C=CCNCC,N-alkylation,N-Ethylallylamine,C=CCBr.CCN,C=CCNCC
+CCCBr.Nc1ccccc1,CCCNc1ccccc1,N-alkylation,N-Propylaniline,CCCBr.Nc1ccccc1,CCCNc1ccccc1
+CCCCBr. Nc1ccccc1,CCCCNc1ccccc1,N-alkylation,N-Butylaniline,CCCCBr.Nc1ccccc1,CCCCNc1ccccc1
+CCCBr.NC,CCCNC,N-alkylation,N-Methylpropylamine,CCCBr.CN,CCCNC
+CS(=O)(=O)Cl.Nc1ccccc1,CS(=O)(=O)Nc1ccccc1,N-sulfonylation,N-Methanesulfonanilide,CS(=O)(=O)Cl.Nc1ccccc1,CS(=O)(=O)Nc1ccccc1
+c1ccc(S(=O)(=O)Cl)cc1.Nc1ccccc1,c1ccc(S(=O)(=O)Nc2ccccc2)cc1,N-sulfonylation,N-Benzenesulfonanilide,O=S(=O)(Cl)c1ccccc1.Nc1ccccc1,O=S(=O)(Nc1ccccc1)c1ccccc1
+CS(=O)(=O)Cl.NC,CNS(C)(=O)=O,N-sulfonylation,N-Methylmethanesulfonamide,CS(=O)(=O)Cl.CN,CNS(C)(=O)=O
+CS(=O)(=O)Cl.NCC,CCNS(C)(=O)=O,N-sulfonylation,N-Ethylmethanesulfonamide,CS(=O)(=O)Cl.CCN,CCNS(C)(=O)=O
+Cc1ccc(S(=O)(=O)Cl)cc1.Nc1ccccc1,Cc1ccc(S(=O)(=O)Nc2ccccc2)cc1,N-sulfonylation,N-Tosylanilide,Cc1ccc(S(=O)(=O)Cl)cc1.Nc1ccccc1,Cc1ccc(S(=O)(=O)Nc2ccccc2)cc1
+Cc1ccc(S(=O)(=O)Cl)cc1.NC,CNS(=O)(=O)c1ccc(C)cc1,N-sulfonylation,N-Methyl-p-toluenesulfonamide,Cc1ccc(S(=O)(=O)Cl)cc1.CN,CNS(=O)(=O)c1ccc(C)cc1
+CC=O.Nc1ccccc1,CCNc1ccccc1,reductive-amination,N-Ethylaniline (red.  amin.),CC=O.Nc1ccccc1,CCNc1ccccc1
+CC=O.NC,CCNC,reductive-amination,N-Methylethylamine (red. amin.),CC=O.CN,CCNC
+O=Cc1ccccc1.Nc1ccccc1,c1ccc(CNc2ccccc2)cc1,reductive-amination,N-Benzylaniline (red. amin.),O=Cc1ccccc1.Nc1ccccc1,c1ccc(CNc2ccccc2)cc1
+O=Cc1ccccc1.NC,CNCc1ccccc1,reductive-amination,N-Methylbenzylamine (red. amin.),O=Cc1ccccc1.CN,CNCc1ccccc1
+CC(C)=O.Nc1ccccc1,CC(C)Nc1ccccc1,reductive-amination,N-Isopropylaniline,CC(C)=O.Nc1ccccc1,CC(C)Nc1ccccc1
+CCC=O.Nc1ccccc1,CCCNc1ccccc1,reductive-amination,N-Propylaniline (red. amin.),CCC=O.Nc1ccccc1,CCCNc1ccccc1
+CCCC=O.Nc1ccccc1,CCCCNc1ccccc1,reductive-amination,N-Butylaniline (red. amin.),CCCC=O.Nc1ccccc1,CCCCNc1ccccc1
+O=Cc1ccccc1.NCC,CCNCc1ccccc1,reductive-amination,N-Ethylbenzylamine (red. amin.),O=Cc1ccccc1.CCN,CCNCc1ccccc1
+O=C=Nc1ccccc1.Nc1ccccc1,O=C(Nc1ccccc1)Nc1ccccc1,urea-formation,Diphenylurea,O=C=Nc1ccccc1.Nc1ccccc1,O=C(Nc1ccccc1)Nc1ccccc1
+O=C=Nc1ccccc1.NC,CNC(=O)Nc1ccccc1,urea-formation,N-Methyl-N'-phenylurea,O=C=Nc1ccccc1.CN,CNC(=O)Nc1ccccc1
+O=C=Nc1ccccc1.NCC,CCNC(=O)Nc1ccccc1,urea-formation,N-Ethyl-N'-phenylurea,O=C=Nc1ccccc1.CCN,CCNC(=O)Nc1ccccc1
+ClC(=O)OCC. Nc1ccccc1,CCOC(=O)Nc1ccccc1,carbamate-formation,Ethyl phenylcarbamate,CCOC(=O)Cl.Nc1ccccc1,CCOC(=O)Nc1ccccc1
+ClC(=O)OC. Nc1ccccc1,COC(=O)Nc1ccccc1,carbamate-formation,Methyl phenylcarbamate,COC(=O)Cl.Nc1ccccc1,COC(=O)Nc1ccccc1
+O=Cc1ccccc1.Nc1ccccc1,c1ccc(/N=C/c2ccccc2)cc1,schiff-base,N-Benzylideneaniline,O=Cc1ccccc1.Nc1ccccc1,C(=N/c1ccccc1)\c1ccccc1
+CC=O.Nc1ccccc1,CC=Nc1ccccc1,schiff-base,N-Ethylideneaniline,CC=O.Nc1ccccc1,CC=Nc1ccccc1
+O=Cc1ccccc1.NCc1ccccc1,c1ccc(/C=N/Cc2ccccc2)cc1,schiff-base,N-Benzylidenebenzylamine,O=Cc1ccccc1.NCc1ccccc1,C(=N/Cc1ccccc1)\c1ccccc1
+O=Cc1ccc(O)cc1.Nc1ccccc1,Oc1ccc(/C=N/c2ccccc2)cc1,schiff-base,N-Salicylideneaniline,O=Cc1ccc(O)cc1.Nc1ccccc1,Oc1ccc(/C=N/c2ccccc2)cc1
+CC(=O)Cl.Nc1nccs1,CC(=O)Nc1nccs1,N-acylation,N-Acetyl-2-aminothiazole,CC(=O)Cl.Nc1nccs1,CC(=O)Nc1nccs1
+O=C(Cl)c1ccccc1.Nc1nccs1,O=C(Nc1nccs1)c1ccccc1,N-acylation,N-Benzoyl-2-aminothiazole,O=C(Cl)c1ccccc1.Nc1nccs1,O=C(Nc1nccs1)c1ccccc1
+CI.Nc1nccs1,CNc1nccs1,N-alkylation,N-Methyl-2-aminothiazole,CI.Nc1nccs1,CNc1nccs1
+CCBr.Nc1nccs1,CCNc1nccs1,N-alkylation,N-Ethyl-2-aminothiazole,CCBr.Nc1nccs1,CCNc1nccs1
+BrCc1ccccc1.Nc1nccs1,c1ccc(CNc2nccs2)cc1,N-alkylation,N-Benzyl-2-aminothiazole,BrCc1ccccc1.Nc1nccs1,c1ccc(CNc2nccs2)cc1
+CC(=O)OC(C)=O.Nc1nccs1,CC(=O)Nc1nccs1,N-acylation,N-Acetyl-2-aminothiazole (anh),CC(=O)OC(C)=O.Nc1nccs1,CC(=O)Nc1nccs1
+CS(=O)(=O)Cl.Nc1nccs1,CS(=O)(=O)Nc1nccs1,N-sulfonylation,N-Mesyl-2-aminothiazole,CS(=O)(=O)Cl.Nc1nccs1,CS(=O)(=O)Nc1nccs1
+CC(=O)Cl.Nc1ccc([N+]([O-])=O)cc1,CC(=O)Nc1ccc([N+]([O-])=O)cc1,N-acylation,4-Nitroacetanilide,CC(=O)Cl.Nc1ccc([N+](=O)[O-])cc1,CC(=O)Nc1ccc([N+](=O)[O-])cc1
+CI.Nc1ccc([N+]([O-])=O)cc1,CNc1ccc([N+]([O-])=O)cc1,N-alkylation,N-Methyl-4-nitroaniline,CI.Nc1ccc([N+](=O)[O-])cc1,CNc1ccc([N+](=O)[O-])cc1
+CC(=O)Cl. Nc1ccccc1[N+]([O-])=O,CC(=O)Nc1ccccc1[N+]([O-])=O,N-acylation,2-Nitroacetanilide,CC(=O)Cl.Nc1ccccc1[N+](=O)[O-],CC(=O)Nc1ccccc1[N+](=O)[O-]
+O=C(Cl)c1ccccc1.Nc1ccc([N+]([O-])=O)cc1,O=C(Nc1ccc([N+]([O-])=O)cc1)c1ccccc1,N-acylation,4-Nitrobenzanilide,O=C(Cl)c1ccccc1.Nc1ccc([N+](=O)[O-])cc1,O=C(Nc1ccc([N+](=O)[O-])cc1)c1ccccc1

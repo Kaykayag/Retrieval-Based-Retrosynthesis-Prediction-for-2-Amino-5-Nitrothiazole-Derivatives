@@ -1,0 +1,8 @@
+type,n,top5_exact,top5_partial,top5_same_type
+N-acylation,31,0.0,100.0,100.0
+N-alkylation,24,0.0,100.0,100.0
+N-sulfonylation,7,0.0,100.0,85.71428571428571
+carbamate-formation,2,0.0,100.0,100.0
+reductive-amination,8,0.0,100.0,75.0
+schiff-base,4,0.0,100.0,100.0
+urea-formation,3,0.0,100.0,100.0

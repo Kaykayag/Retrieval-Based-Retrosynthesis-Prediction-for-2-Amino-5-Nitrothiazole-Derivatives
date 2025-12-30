@@ -1,0 +1,8 @@
+derivative,smiles,expected,top1_prediction,top1_similarity,top1_name
+N-Acetyl-ANT,CC(=O)Nc1ncc([N+](=O)[O-])s1,Acetic anhydride or Acetyl chloride,CC(=O)Cl.Nc1ccccc1[N+](=O)[O-],0.425,2-Nitroacetanilide
+N-Benzoyl-ANT,O=C(Nc1ncc([N+](=O)[O-])s1)c1ccccc1,Benzoyl chloride,O=C(Cl)c1ccccc1.Nc1ccc([N+](=O)[O-])cc1,0.4883720930232558,4-Nitrobenzanilide
+N-Methyl-ANT,CNc1ncc([N+](=O)[O-])s1,Methyl iodide,CI.Nc1ccc([N+](=O)[O-])cc1,0.34285714285714286,N-Methyl-4-nitroaniline
+N-Ethyl-ANT,CCNc1ncc([N+](=O)[O-])s1,Ethyl bromide,CCBr.Nc1nccs1,0.3783783783783784,N-Ethyl-2-aminothiazole
+N-Benzyl-ANT,O=[N+]([O-])c1cnc(NCc2ccccc2)s1,Benzyl bromide,BrCc1ccccc1.Nc1nccs1,0.4523809523809524,N-Benzyl-2-aminothiazole
+N-Propionyl-ANT,CCC(=O)Nc1ncc([N+](=O)[O-])s1,Propionyl chloride,CCC(=O)Cl.Nc1ccccc1,0.34146341463414637,Propionanilide
+N-Mesyl-ANT,CS(=O)(=O)Nc1ncc([N+](=O)[O-])s1,Methanesulfonyl chloride,CS(=O)(=O)Cl.Nc1nccs1,0.42105263157894735,N-Mesyl-2-aminothiazole

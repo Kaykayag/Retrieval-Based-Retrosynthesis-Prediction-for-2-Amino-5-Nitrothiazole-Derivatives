@@ -1,0 +1,6 @@
+case_id,reaction_name,reaction_type,product,true_reactants,top1_prediction,top1_similarity,top1_correct
+1,Acetanilide formation,N-acylation,CC(=O)Nc1ccccc1,CC(=O)Cl.Nc1ccccc1,CC(=O)Cl.Nc1ccccc1,1.0,True
+2,N-Methylaniline,N-alkylation,CNc1ccccc1,CI.Nc1ccccc1,CI.Nc1ccccc1,1.0,True
+3,N-Methanesulfonanilide,N-sulfonylation,CS(=O)(=O)Nc1ccccc1,CS(=O)(=O)Cl.Nc1ccccc1,CS(=O)(=O)Cl.Nc1ccccc1,1.0,True
+4,N-Ethylaniline (red.  amin.),reductive-amination,CCNc1ccccc1,CC=O.Nc1ccccc1,CCBr.Nc1ccccc1,1.0,False
+5,Diphenylurea,urea-formation,O=C(Nc1ccccc1)Nc1ccccc1,O=C=Nc1ccccc1.Nc1ccccc1,O=C=Nc1ccccc1.Nc1ccccc1,1.0,True
