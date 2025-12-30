@@ -1,0 +1,10 @@
+Statistic,Value
+Total Reactions,79
+Unique Products,61
+Unique Reactant Combinations,77
+Reaction Types,7
+Average Reactants per Reaction,2.00
+Valid Fingerprints,79
+Fingerprint Dimensions,2048 bits
+Fingerprint Radius,2 (ECFP4)
+Similarity Metric,Tanimoto (Jaccard)

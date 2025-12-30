@@ -1,0 +1,8 @@
+Reaction Type,Test Samples,Top-1 Exact (%),Top-5 Exact (%),Top-1 Partial (%),Top-5 Partial (%),Top-1 Same Type (%),Top-5 Same Type (%)
+N-acylation,31,0.0,0.0,87.1,100.0,90.32,100.0
+N-alkylation,24,0.0,0.0,75.0,100.0,66.67,100.0
+reductive-amination,8,0.0,0.0,75.0,100.0,0.0,75.0
+N-sulfonylation,7,0.0,0.0,100.0,100.0,85.71,85.71
+schiff-base,4,0.0,0.0,100.0,100.0,100.0,100.0
+urea-formation,3,0.0,0.0,100.0,100.0,100.0,100.0
+carbamate-formation,2,0.0,0.0,100.0,100.0,100.0,100.0

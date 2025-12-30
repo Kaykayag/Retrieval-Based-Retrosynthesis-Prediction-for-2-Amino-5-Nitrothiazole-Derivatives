@@ -1,0 +1,14 @@
+Metric,Value
+Top-1 Exact Match (%),0.00
+Top-3 Exact Match (%),0.00
+Top-5 Exact Match (%),0.00
+Top-10 Exact Match (%),1.27
+Top-1 Partial Match (%),84.81
+Top-3 Partial Match (%),98.73
+Top-5 Partial Match (%),100.00
+Top-10 Partial Match (%),100.00
+Top-1 Same Reaction Type (%),74.68
+Top-5 Same Reaction Type (%),96.20
+Mean Reciprocal Rank (MRR),0.9167
+Average Top-1 Similarity,0.7380
+Total Test Samples,79
